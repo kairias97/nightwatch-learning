@@ -1,0 +1,24 @@
+{
+  "name": "nightwatch-learning",
+  "version": "1.0.0",
+  "description": "Nightwatch for beginners project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kairias97/nightwatch-learning.git"
+  },
+  "author": "Kevin Irias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kairias97/nightwatch-learning/issues"
+  },
+  "homepage": "https://github.com/kairias97/nightwatch-learning#readme",
+  "devDependencies": {
+    "chromedriver": "^79.0.0",
+    "geckodriver": "^1.19.1",
+    "nightwatch": "^1.3.2"
+  }
+}
